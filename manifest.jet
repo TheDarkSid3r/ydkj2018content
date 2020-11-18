@@ -1,0 +1,16 @@
+{ 
+    "id":"Main", 
+    "name":"Main Content Pack", 
+    "types":[ 
+        "YDKJEpisodeSkeleton", 
+        "YDKJShortie", "YDKJShortieSpecialty", "YDKJShortieById", 
+        "YDKJPlayersChoice", "YDKJPlayersChoiceById",
+        "YDKJDisOrDat", "YDKJDisOrDatById",
+        "YDKJGibberish", "YDKJGibberishById",
+        "YDKJJackAttack", "YDKJJackAttackById",
+        "YDKJFakeShow",
+        "YDKJScrew",
+        "YDKJBinjTitle",
+        "YDKJSpecialName"
+    ] 
+}
